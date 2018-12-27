@@ -43,7 +43,7 @@ client.on("message", message => {
 
 ***__وصف عن البوت__***
 **
-Fighters_Bot ✨ 
+LeDoux ✨ 
 متعدد الميزات و الاوامر فيه اوامر جميله يحتوي هذا البوت على
 خاصيه قائمه الالوان و تقدر تغير لونك زي برو بوت و مانع الاسبام و الترحيب 
 بصوره
@@ -830,7 +830,7 @@ client.on("message", (message) => {
  .setThumbnail(client.user.avatarURL)     
  .setDescription("Add me" + `
  **
-رابط البوت | https://discordapp.com/api/oauth2/authorize?client_id=526416338575556638&permissions=0&scope=bot
+رابط البوت | https://discordapp.com/api/oauth2/authorize?client_id=527952677754109970&permissions=0&scope=bot
 **
 `);
   message.author.sendEmbed(embed);
@@ -847,7 +847,7 @@ client.on("message", (message) => {
  .setThumbnail(client.user.avatarURL)     
  .setDescription(" ***welcome To server support*** " + `
  **
-رابط السيرفر | https://discord.gg/2SnMSbn
+رابط السيرفر | https://discord.gg/XKg5v78
  **
 `);
   message.author.sendEmbed(embed);
@@ -1149,7 +1149,7 @@ client.on('ready',  () => {
 client.on('ready', function(){
     client.user.setStatus("dnd");
     var ms = 100000 ;
-    var setGame = [`!help Servers ${client.guilds.size} `,`!invite Users ${client.users.size}`];
+    var setGame = [`by Jaààààààd`];
     var i = -1;
     var j = 0;
     setInterval(function (){
@@ -13367,7 +13367,7 @@ client.on('message', msg => {
 });
 client.on('message', msg => {
   if (msg.content === '.') {
-    msg.channel.send(' **__-Wèlçomè Ťø Fighters Śeŕveŕ__** ');
+    msg.channel.send(' **__-Wèlçomè Ťø LeDoux Śeŕveŕ__** ');
   }
 });
 
@@ -13419,4 +13419,4 @@ client.on("message", message => {
 	} 
 });
 
-client.login('');
+client.login('NTI3OTUyNjc3NzU0MTA5OTcw.DwbObQ.bPOF_HSFzY_yeySu2PfGBaUT3tI');
